@@ -13,3 +13,7 @@ Transfering this data from editor to UDACITY working directory
 Checking on functionality of code
 Checking on typos 
 Submitting the project
+
+###Reaction of reviewer
+Receive praise or no praise
+
