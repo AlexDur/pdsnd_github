@@ -17,3 +17,6 @@ Submitting the project
 ###Reaction of reviewer
 Receive praise or no praise
 
+###Reaction of the author
+He either thinks "Cool, lets move on!" or "Damn, same mustard one more time"
+
